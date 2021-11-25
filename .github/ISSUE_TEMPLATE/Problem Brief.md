@@ -1,5 +1,6 @@
-## Feature Brief
-*Background*
+# Feature Brief
+
+## Background
 
 //Help the audience understand the context behind why we are doing this project.
 
