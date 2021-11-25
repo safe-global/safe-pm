@@ -1,8 +1,8 @@
-# Feature Brief
+# Problem Brief
 
 ## Background
 
-//Help the audience understand the context behind why we are doing this project.
+//Help the audience understand the context behind why we are working on this problem.
 
 ## Problem Statement
 
@@ -10,7 +10,7 @@
 
 ## Non Goals
 
-## Hypothesis:
+## Hypothesis
 
 //If we <achieve/enable X>, then <user behavior Y changes in this way> leading to positive metrics Z. Include guesses for size of the win on specific metrics, using past launches as a baseline. 
 
