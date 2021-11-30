@@ -1,11 +1,11 @@
 # Problem Brief
 
-## Problem Statements
+## Problem Statement(s)
 
-## Goals
+## Goal(s)
 // What does success look like and how do we measure it?
 
-## Non Goals
+## Non Goal(s)
 // Controlling the scope of this
 
 ## Hypothesis:
