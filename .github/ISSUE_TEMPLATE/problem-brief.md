@@ -1,13 +1,12 @@
-## Feature Brief
-*Background*
-
-//Help the audience understand the context behind why we are doing this project.
+# Problem Brief
 
 ## Problem Statements
 
 ## Goals
+// What does success look like and how do we measure it?
 
 ## Non Goals
+// Controlling the scope of this
 
 ## Hypothesis:
 
