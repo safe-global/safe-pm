@@ -1,6 +1,6 @@
 ---
-name: Problem Statement 
-about: Add a new problem statement
+name: Problem Brief 
+about: Add a new problem brief
 title: ''
 labels: draft
 assignees: ''
