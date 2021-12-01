@@ -1,3 +1,12 @@
+---
+name: Problem Statement 
+about: Add a new problem statement
+title: ''
+labels: draft
+assignees: ''
+
+---
+
 ## What problem are you trying to solve?
 
 ## What is your hypothesis?
