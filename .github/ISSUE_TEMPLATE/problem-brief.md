@@ -1,3 +1,12 @@
+---
+name: Problem Statement 
+about: Add a new problem statement
+title: ''
+labels: draft
+assignees: ''
+
+---
+
 # Problem Brief
 
 ## Problem Statement(s)
