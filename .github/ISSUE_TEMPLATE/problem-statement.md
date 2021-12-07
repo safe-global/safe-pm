@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+# Part 1: Define the problem
+
 ## What problem are you trying to solve?
 
 ## What is your hypothesis?
@@ -20,9 +22,11 @@ assignees: ''
 ## Links:
   
   // Include useful research, such as user tests, competitive analysis, metrics, or surveys.
+  
+  
 
----
-
+# Part 2: Shaping the problem 
+  
   // Once the problem statement has passed the Great Filter, work with the team on the problem statement and elaborate on the following points to create more certainty around the problem and possible solutions.   
 
 ## Non Goal(s)
