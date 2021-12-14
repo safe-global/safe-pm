@@ -4,9 +4,9 @@ Product coordination for the Safe team primarily focused on Problems that need t
 
 ## Roadmap Planning Board
 
-https://github.com/orgs/gnosis/projects/24/views/1
+https://github.com/orgs/gnosis/projects/22/views/7
 
 
 ## Roadmap 
 
-https://github.com/orgs/gnosis/projects/23/views/1
+https://github.com/orgs/gnosis/projects/22/views/4
