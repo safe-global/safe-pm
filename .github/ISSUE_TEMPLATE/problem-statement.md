@@ -6,6 +6,9 @@ labels: draft
 assignees: ''
 
 ---
+# Problem Owner
+
+  // Who is responsible for leading the shaping process of this problem statement
 
 # Part 1: Define the problem
 
@@ -30,9 +33,12 @@ assignees: ''
   // Once the problem statement has passed the Great Filter, work with the team on the problem statement and elaborate on the following points to create more certainty around the problem and possible solutions.   
 
 ## Non Goal(s)
-// Controlling the scope 
+  
+  // Controlling the scope 
  
 ## Possible Solution(s) 
+  
+  // Make sure to identify dependencies and invite the necessary stakeholders into the shaping process. 
 
 ## Rough Scoping & Timeline
 
