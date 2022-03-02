@@ -8,7 +8,7 @@ assignees: ''
 ---
 # Problem Owner
 
-  // Who is responsible for leading the shaping process of this problem statement
+  // Who is responsible for leading the shaping process of this problem statement. Owner should be assigned directly after the Great Filter meeting. PM will assist. 
 
 # Part 1: Define the problem
 
@@ -30,7 +30,7 @@ assignees: ''
 
 # Part 2: Shaping the problem 
   
-  // Once the problem statement has passed the Great Filter, work with the team on the problem statement and elaborate on the following points to create more certainty around the problem and possible solutions.   
+  // Once the problem statement has passed the Great Filter, work with the team on the problem statement and elaborate on the following points to create more certainty around the problem and possible solutions. At the end of the process indicate, if possible, which solution is the one actually choosen to be follow up on and which are just ideas.
 
 ## Non Goal(s)
   
