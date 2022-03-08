@@ -30,24 +30,26 @@ assignees: ''
 
 # Part 2: Shaping the problem 
   
-  // Once the problem statement has passed the Great Filter, work with the team on the problem statement and elaborate on the following points to create more certainty around the problem and possible solutions. At the end of the process indicate, if possible, which solution is the one actually choosen to be follow up on and which are just ideas.
+  // Once the problem statement has passed the Great Filter, work with the team on the problem statement and elaborate on the following points to create more certainty around the problem and possible solutions. At the end of the process indicate, if possible, which solution is the one actually choosen to be follow up on and which are just ideas. Make sure to identify dependencies and invite the necessary stakeholders early into the shaping process. 
 
 ## Non Goal(s)
   
-  // Controlling the scope 
+  // Controlling the scope of solving the problem. 
  
 ## Possible Solution(s) 
   
-  // Make sure to identify dependencies and invite the necessary stakeholders into the shaping process. 
+### Solution 1
+  
+*Overview*
+  
+*Rough Scoping & Timeline*
 
-## Rough Scoping & Timeline
+  // At a high level, what's included in V1 vs. later versions? How big of a project is this? What's the roll out / testing plan? 
 
-  // At a high level, what's included in V1 vs. later versions? How big of a project is this? What's the roll out / testing plan? What networks to be used? Consider the major pieces of functionality, Mobile, Platform, Entry Points, User Onboarding.
-
-## Risk(s), Key Trade Offs & Decisions
+*Risk(s), Key Trade Offs & Decisions*
 
   // For example, were there any alternatives considered? What are the value, usability, feasability and business risks and how could we address them? 
 
-## Concept Mocks
+*Concept Mocks*
  
 ## Open Questions
