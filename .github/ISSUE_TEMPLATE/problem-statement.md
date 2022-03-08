@@ -6,9 +6,6 @@ labels: draft
 assignees: ''
 
 ---
-# Problem Owner
-
-  // Who is responsible for leading the shaping process of this problem statement. Owner should be assigned directly after the Great Filter meeting. PM will assist. 
 
 # Part 1: Define the problem
 
@@ -31,6 +28,10 @@ assignees: ''
 # Part 2: Shaping the problem 
   
   // Once the problem statement has passed the Great Filter, work with the team on the problem statement and elaborate on the following points to create more certainty around the problem and possible solutions. Make sure to identify dependencies and invite the necessary stakeholders early into the shaping process. 
+  
+## Problem Owner
+
+  // Who is responsible for leading the shaping process of this problem statement. Owner should be assigned directly after the Great Filter meeting. PM will assist. 
 
 ## Non Goal(s)
   
