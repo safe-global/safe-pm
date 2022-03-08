@@ -30,15 +30,19 @@ assignees: ''
 
 # Part 2: Shaping the problem 
   
-  // Once the problem statement has passed the Great Filter, work with the team on the problem statement and elaborate on the following points to create more certainty around the problem and possible solutions. At the end of the process indicate, if possible, which solution is the one actually choosen to be follow up on and which are just ideas. Make sure to identify dependencies and invite the necessary stakeholders early into the shaping process. 
+  // Once the problem statement has passed the Great Filter, work with the team on the problem statement and elaborate on the following points to create more certainty around the problem and possible solutions. Make sure to identify dependencies and invite the necessary stakeholders early into the shaping process. 
 
 ## Non Goal(s)
   
   // Controlling the scope of solving the problem. 
  
-## Possible Solution(s) 
+## Solution
+  
+  // At the end of the process, if possible, leave only the solution here that you want to be considered during the prioritization vote.  Move all other solutions or ideas to **Alternative solutions**. 
   
 ### Solution 1
+  
+  // Provided structure is here for guidance and can be altered. 
   
 **Overview**
   
@@ -51,5 +55,7 @@ assignees: ''
   // For example, were there any alternatives considered? What are the value, usability, feasability and business risks and how could we address them? 
 
 **Concept Mocks**
+  
+## Alternative solutions & ideas
  
 ## Open Questions
