@@ -40,16 +40,16 @@ assignees: ''
   
 ### Solution 1
   
-*Overview*
+**Overview**
   
-*Rough Scoping & Timeline*
+**Rough Scoping & Timeline**
 
   // At a high level, what's included in V1 vs. later versions? How big of a project is this? What's the roll out / testing plan? 
 
-*Risk(s), Key Trade Offs & Decisions*
+**Risk(s), Key Trade Offs & Decisions**
 
   // For example, were there any alternatives considered? What are the value, usability, feasability and business risks and how could we address them? 
 
-*Concept Mocks*
+**Concept Mocks**
  
 ## Open Questions
